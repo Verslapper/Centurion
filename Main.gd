@@ -2,7 +2,7 @@ extends Node
 
 var correct = 0
 var presented = 0
-var STOP_AT = 3;
+var STOP_AT = 100;
 var time = 0
 var timerPaused = false
 
