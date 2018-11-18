@@ -11,3 +11,5 @@ Right colour option: Right arrow / 6
 
 Your current score of correct selections is above the example.
 The timer is above the options, should you wish to beat your previous time.
+
+Code is available for your perusal and arousal at: https://github.com/Verslapper/centurion
